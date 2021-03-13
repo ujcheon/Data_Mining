@@ -1,1 +1,1 @@
-# bigdata_smwu
+# Data_Mining for studying
